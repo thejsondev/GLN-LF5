@@ -1,0 +1,7 @@
+version="1.0"?
+PurchaseOrderNumber="99503"OrderDate="1999-10-20"
+Type="Shipping"
+AdamsMapleStreetValleyType="Billing"
+YeeOakAvenueTownleavepackagesinshedbydriveway.PartNumber="872-AA"
+thisiselectricPartNumber="926-AA"
+Monitor
